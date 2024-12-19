@@ -1,0 +1,11 @@
+/.gradle/
+/build/
+/build/classes/java/main/
+/out/
+*.log
+.idea/
+.gradle/
+.env
+Thumbs.db
+*.tmp
+*.lock
